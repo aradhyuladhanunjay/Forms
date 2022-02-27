@@ -1,0 +1,90 @@
+.main{
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 2px;
+    padding-top: 10px;
+    padding-bottom: 100px;
+    border-style: ridge;
+}
+.header{
+    color:rgb(0, 68, 255);
+    text-align: left;
+    margin-left: 100px;
+    padding: 3px;
+}
+.subheading{
+    padding-top: 0px;
+    font-size: 30px;
+}
+.Names{
+    text-align: left;
+    margin-left: 100px;
+}
+.Username{
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 100px;
+    padding: auto;
+}
+.namedetails{
+    font-size: 14px;
+}
+.currentemail{
+    align-self: left;
+    margin-left: 0px;
+    padding-bottom: 0px;
+    padding-right: 275px;
+    padding-top: 3px;
+    cursor: pointer;
+    color: blue;
+    background-color: white;
+    
+}
+.Password{
+    padding-top: 20px;
+    padding-left: 15px;
+    padding-bottom: 0px;
+}
+.text{
+    font-size: 14px;
+    margin-right: 145px;
+    margin-top: 0px;
+    padding-left: 0px;
+    padding-top: 0px
+    
+}
+.showpassword{
+    margin-left: 96px;
+    text-align-last: left;
+    padding-bottom: 25px;
+}
+.signinbutton{
+    margin-left: 50px;
+    text-align-last: left;
+    padding: 10px 20;
+    cursor: pointer;
+    font-style: italic;
+    color: darkcyan;
+    background-color: white;
+}
+.Next{
+    margin-right: 150px;
+    margin-left: 250px;
+    text-align-last: right;
+    padding:10px 20px;
+    cursor:pointer;
+    font-size: 15px;
+    color: white;
+    background-color: skyblue;
+    border-radius: 2px;
+
+        
+}
+.Next:hover{
+    background-color:blue ;
+}
+.signinbutton:hover{
+    color: blue;
+}
